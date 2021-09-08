@@ -1,6 +1,6 @@
 # Chat-Application
 
-![Screenshot (230)](https://user-images.githubusercontent.com/44099058/132528236-e334def4-a08e-47c6-aee7-c79a28bd3de1.png)
+![Screenshot (231)](https://user-images.githubusercontent.com/44099058/132528603-3d158031-f62a-4597-b300-66c90e712a9d.png)
 
 
 ###Getting Started
